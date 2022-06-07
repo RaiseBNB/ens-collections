@@ -411,14 +411,14 @@
 			"csv": ["english-adjectives.csv"]
 		},
 		{
-			"name": "4 Letter Dictionary",
-			"slug": "4-letter-dictionary",
-			"description": "English 4 Letter Dictionary Words.",
-			"twitter": "",
+			"name": "Country Leaders",
+			"slug": "country-leaders",
+			"description": "Names of Country Leaders.",
+			"twitter": "Country_Leaders",
 			"chat": "",
 			"website": "",
-			"logo": "4-letter-dictionary.png",
-			"csv": ["4-letter-dictionary.csv"]
+			"logo": "Leaders.PNG",
+			"csv": ["country leaders.csv"]
 		}
 	]
 }
